@@ -1,0 +1,57 @@
+commit f9e18cd9d309b0d6944076638cc064f22e421628
+Merge: 8a36129 628e66d
+Author: Bryan Duarte <bgdf2003@gmail.com>
+Date:   Sat Jan 31 20:27:09 2026 -0800
+
+    Merge branch 'index-fix'
+
+commit 628e66d2bd51b68372399e63fa00574f34399723
+Author: Bryan Duarte <bgdf2003@gmail.com>
+Date:   Sat Jan 31 20:19:56 2026 -0800
+
+    commit index fav game
+
+commit 8a361292c1e2ca77ddcc613c3ae3869bdd14b838
+Author: Bryan Duarte <bgdf2003@gmail.com>
+Date:   Sat Jan 31 20:12:39 2026 -0800
+
+    Commit Index Update
+
+commit 1cee79ee7b41c3b057b9447c949a98546a851078
+Author: Bryan Duarte <bgdf2003@gmail.com>
+Date:   Sat Jan 31 20:00:01 2026 -0800
+
+    Commit my README
+
+commit 81f9ef64077a5fb06f25183b7bf8b4d6b67dbf3d
+Merge: 349518a 163ddaa
+Author: bgdf05 <51223580+bgdf05@users.noreply.github.com>
+Date:   Sat Jan 31 19:57:39 2026 -0800
+
+    Merge pull request #1 from bgdf05/info-fill
+    
+    update index.html file
+
+commit 163ddaa91c7cdd600ed49327015987e5969e4009
+Author: Bryan Duarte <bgdf2003@gmail.com>
+Date:   Sat Jan 31 19:52:58 2026 -0800
+
+    Add or update index.html file
+
+commit 349518a6e2536604ab73d1e1a2efca803090a6d8
+Author: bgdf05 <51223580+bgdf05@users.noreply.github.com>
+Date:   Sat Jan 31 19:48:52 2026 -0800
+
+    Update index.html
+
+commit 1481dc1104d586f3537c8bb8e9bec1393f84c34d
+Author: bgdf05 <51223580+bgdf05@users.noreply.github.com>
+Date:   Sat Jan 31 19:45:45 2026 -0800
+
+    Update index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
